@@ -1,0 +1,3 @@
+[05-Oct-2021 15:10:18 UTC] PHP Notice:  Undefined index: username in /home2/depiktst/pqs.depiktstudio.com/includes/login.inc.php on line 7
+[05-Oct-2021 15:10:18 UTC] PHP Notice:  Undefined index: designation in /home2/depiktst/pqs.depiktstudio.com/includes/login.inc.php on line 8
+[05-Oct-2021 15:10:18 UTC] PHP Notice:  Undefined index: password in /home2/depiktst/pqs.depiktstudio.com/includes/login.inc.php on line 9
